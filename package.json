@@ -1,0 +1,8 @@
+{
+  "name": "clean-cache-control",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Diegofs96/clean-cache-control.git",
+  "author": "<diegoferreira940@gmail.com>",
+  "license": "MIT"
+}
