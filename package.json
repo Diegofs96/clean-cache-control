@@ -5,8 +5,8 @@
   "repository": "https://github.com/Diegofs96/clean-cache-control.git",
   "author": "<diegoferreira940@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "typescript": "^4.5.5"
+  "scripts": {
+    "test": "jest --no-cache --watchAll"
   },
   "devDependencies": {
     "@types/jest": "^27.4.1",
